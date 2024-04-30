@@ -1,0 +1,422 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI Strings Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI Strings
+  m_TableCollectionNameGuidString: e15bd1ddcf6ecb44c80a48a16e71de7d
+  m_Entries:
+  - m_Id: 511493378048
+    m_Key: St.Patrick Discription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 869821157376
+    m_Key: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036475203584
+    m_Key: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2507499737088
+    m_Key: TAP TO OPEN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2586851774464
+    m_Key: TAP TO CONTINUE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2852279914496
+    m_Key: STAR CHEST
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3209810776064
+    m_Key: LEVEL CHEST
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9142993522688
+    m_Key: Lvl Chest Discription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30036600131584
+    m_Key: RETURN TO MAIN MENU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30210999291904
+    m_Key: RESUME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30291420876800
+    m_Key: PAUSE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30627544010752
+    m_Key: YOU LOSE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30708707987456
+    m_Key: TRY AGAIN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30846734143488
+    m_Key: Lvl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 345425179676672
+    m_Key: Unlocks lvl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 359553311019008
+    m_Key: CHOOSE BOOSTERS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 361438851993600
+    m_Key: Lv.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 380764699070464
+    m_Key: NO LIVES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 383562576662528
+    m_Key: Refill
+    m_Metadata:
+      m_Items: []
+  - m_Id: 389528160407552
+    m_Key: Min Sec
+    m_Metadata:
+      m_Items: []
+  - m_Id: 748145183133696
+    m_Key: Lvl Main Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1108330271576064
+    m_Key: FULL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1490523816824832
+    m_Key: TAP TO GET
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1492981544751104
+    m_Key: Day Hours Min
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1536116102631424
+    m_Key: Trial of St. Patrick
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1538346499280896
+    m_Key: Min
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1539541896892416
+    m_Key: Coins
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2172349292056576
+    m_Key: HARD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2175242803974144
+    m_Key: EXTRA HARD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2175719532761088
+    m_Key: Crown Race
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2176128301240320
+    m_Key: Crown Race Discription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2627121006612480
+    m_Key: Sky Adventure
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2628822207926272
+    m_Key: Hours Min Sec
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2637105987686400
+    m_Key: Congratulations! You're moving on to the next stage!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2637371663290368
+    m_Key: LEVEL 1/21
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2637628958674944
+    m_Key: Players 100/100
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3270364908064768
+    m_Key: Sky Adventure Discription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3973890932051968
+    m_Key: Search for players
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4005227348987904
+    m_Key: stay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4005586402381824
+    m_Key: exit point
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4005979920371712
+    m_Key: Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4007205563109376
+    m_Key: Keep fighting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4008484481896448
+    m_Key: You Win!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4009106673340416
+    m_Key: YOUR WINNINGS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4010497219334144
+    m_Key: Win Players
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4081475593015296
+    m_Key: You Exit!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4425528113205248
+    m_Key: START
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4426483193974784
+    m_Key: 'Adventure End
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4718363857227776
+    m_Key: Car Race
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4732251222937600
+    m_Key: 'Number
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5172643403763712
+    m_Key: Car Race Discription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5173898628927488
+    m_Key: 'Lvl
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5514894642352128
+    m_Key: Get
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5527499087908864
+    m_Key: Alex
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5527645192294400
+    m_Key: Jacob
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5527806928850944
+    m_Key: Karen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5527864512450560
+    m_Key: Carl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5858726055612416
+    m_Key: Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5892619324461056
+    m_Key: beginner's kit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6179215152091136
+    m_Key: FIND kit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6179903340908544
+    m_Key: Additional set
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6185359060865024
+    m_Key: Pro set
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6186009056350208
+    m_Key: Ultra Set
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6187287966748672
+    m_Key: 'hours
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6187949697896448
+    m_Key: Legendary Set
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6189435710443520
+    m_Key: No Ads
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6193433431609344
+    m_Key: Remove annoying ads
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6199891443421184
+    m_Key: The offer is limited!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6200644887220224
+    m_Key: The most popular!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6201011440029696
+    m_Key: Best price!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6202876902871040
+    m_Key: Double set
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6205458966745088
+    m_Key: 'Coins Default
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6525102508314624
+    m_Key: Sale!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6525801208057856
+    m_Key: Remove ads
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6529003567550464
+    m_Key: 45% less
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6540261830266880
+    m_Key: Turn off annoying ads and get 200 coins!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6543753437351936
+    m_Key: Continue with the ad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6629783641362432
+    m_Key: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6638824979533824
+    m_Key: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6897813030014976
+    m_Key: Superprize!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6905306720342016
+    m_Key: Collect all
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6905731452342272
+    m_Key: Hint tutorial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6917277616279552
+    m_Key: Canceling Tutorial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6918668208410624
+    m_Key: feather tutorial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6919749365764096
+    m_Key: Time freeze Tutorial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7279344294662144
+    m_Key: The Easter Test
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7334660654862336
+    m_Key: The Christmas Test
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12684867261272064
+    m_Key: Very Hard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12688487620907008
+    m_Key: Easter Test Discription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12688748724719616
+    m_Key: Christmas Test Discription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12770848316428288
+    m_Key: Time's up
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12774604798005248
+    m_Key: Continue Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13053562533810176
+    m_Key: 'YOU WILL LOSE:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13064544064737280
+    m_Key: Second
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13069987373748224
+    m_Key: Not enough space!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13070480732950528
+    m_Key: Clear Panel
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 4830990691756671000
+  references:
+    version: 2
+    RefIds:
+    - rid: 4830990691756671000
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1711004093700

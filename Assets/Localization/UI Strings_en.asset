@@ -1,0 +1,447 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI Strings_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: e15bd1ddcf6ecb44c80a48a16e71de7d, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 4830990691756671014
+  m_TableData:
+  - m_Id: 12688487620907008
+    m_Localized: Collect Easter eggs and win Easter rewards!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 511493378048
+    m_Localized: Collect clovers and win St. Patrick's Awards!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 869821157376
+    m_Localized: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036475203584
+    m_Localized: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2507499737088
+    m_Localized: TAP TO OPEN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2586851774464
+    m_Localized: TAP TO CONTINUE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2852279914496
+    m_Localized: STAR CHEST
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3209810776064
+    m_Localized: LEVEL CHEST
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9142993522688
+    m_Localized: REACH <color=#81CF5E>LEVEL {0}</color>\nTO OPEN!
+    m_Metadata:
+      m_Items:
+      - rid: 4830990691756671014
+  - m_Id: 30036600131584
+    m_Localized: RETURN TO MAIN MENU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30210999291904
+    m_Localized: RESUME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30291420876800
+    m_Localized: PAUSE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30627544010752
+    m_Localized: YOU LOSE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30708707987456
+    m_Localized: TRY AGAIN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30846734143488
+    m_Localized: Level {0}
+    m_Metadata:
+      m_Items:
+      - rid: 4830990691756671014
+  - m_Id: 345425179676672
+    m_Localized: Unlocks on lvl {0}
+    m_Metadata:
+      m_Items:
+      - rid: 4830990691756671014
+  - m_Id: 359553311019008
+    m_Localized: 'CHOOSE BOOSTERS:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 361438851993600
+    m_Localized: Lv. {0}
+    m_Metadata:
+      m_Items:
+      - rid: 4830990691756671014
+  - m_Id: 380764699070464
+    m_Localized: NO LIVES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 383562576662528
+    m_Localized: Refill
+    m_Metadata:
+      m_Items: []
+  - m_Id: 389528160407552
+    m_Localized: '{min}min. {sec}sec.'
+    m_Metadata:
+      m_Items:
+      - rid: 4830990691756671014
+  - m_Id: 748145183133696
+    m_Localized: '{0}
+
+      <size=60%><color=#FFFFFF>LEVEL'
+    m_Metadata:
+      m_Items:
+      - rid: 4830990691756671014
+  - m_Id: 1108330271576064
+    m_Localized: FULL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1490523816824832
+    m_Localized: TAP TO GET
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1492981544751104
+    m_Localized: '{d}d {h}h {m}m'
+    m_Metadata:
+      m_Items:
+      - rid: 4830990691756671014
+  - m_Id: 1536116102631424
+    m_Localized: Trial of St. Patrick
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1538346499280896
+    m_Localized: '{0}m'
+    m_Metadata:
+      m_Items:
+      - rid: 4830990691756671014
+  - m_Id: 1539541896892416
+    m_Localized: '{0} <size=50%>Coins'
+    m_Metadata:
+      m_Items:
+      - rid: 4830990691756671014
+  - m_Id: 2172349292056576
+    m_Localized: HARD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2175242803974144
+    m_Localized: EXTRA HARD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2175719532761088
+    m_Localized: Crown Race
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2176128301240320
+    m_Localized: Win levels without losing a single life to start levels with free
+      boosters!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2627121006612480
+    m_Localized: Sky Adventure
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2628822207926272
+    m_Localized: '{h}h {m}m {sec}s'
+    m_Metadata:
+      m_Items:
+      - rid: 4830990691756671014
+  - m_Id: 2637105987686400
+    m_Localized: Congratulations! You're moving on to the next stage!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2637371663290368
+    m_Localized: LEVEL {0}/21
+    m_Metadata:
+      m_Items:
+      - rid: 4830990691756671014
+  - m_Id: 2637628958674944
+    m_Localized: Players {0}/100
+    m_Metadata:
+      m_Items:
+      - rid: 4830990691756671014
+  - m_Id: 3270364908064768
+    m_Localized: It's time to go on an adventure! Come levels in a row to get to
+      the main prize!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3973890932051968
+    m_Localized: Search for players at your level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4005227348987904
+    m_Localized: Stay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4005586402381824
+    m_Localized: exit point
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4005979920371712
+    m_Localized: Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4007205563109376
+    m_Localized: Keep fighting for the <color=#F4EB00>GRAND</color> prize! Or finish
+      now and get a little reward.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4008484481896448
+    m_Localized: You Win!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4009106673340416
+    m_Localized: YOUR WINNINGS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4010497219334144
+    m_Localized: This award went to {0} more winners!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4081475593015296
+    m_Localized: You Exit!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4425528113205248
+    m_Localized: START
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4426483193974784
+    m_Localized: 'The adventure is over. Join the next one via:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4718363857227776
+    m_Localized: Boat Race
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4732251222937600
+    m_Localized: x<size=130%>{0}
+    m_Metadata:
+      m_Items:
+      - rid: 4830990691756671014
+  - m_Id: 5172643403763712
+    m_Localized: Complete at least {0} levels in a row the first time to win the
+      race!
+    m_Metadata:
+      m_Items:
+      - rid: 4830990691756671014
+  - m_Id: 5173898628927488
+    m_Localized: 'Lvl
+
+      <size=130%>{0}'
+    m_Metadata:
+      m_Items:
+      - rid: 4830990691756671014
+  - m_Id: 5514894642352128
+    m_Localized: Get
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5527499087908864
+    m_Localized: Alex
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5527645192294400
+    m_Localized: Jacob
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5527806928850944
+    m_Localized: Karen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5527864512450560
+    m_Localized: Carl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5858726055612416
+    m_Localized: Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5892619324461056
+    m_Localized: beginner's kit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6179215152091136
+    m_Localized: FIND kit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6179903340908544
+    m_Localized: Additional set
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6185359060865024
+    m_Localized: Pro set
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6186009056350208
+    m_Localized: Ultra Set
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6187287966748672
+    m_Localized: '{0}h'
+    m_Metadata:
+      m_Items:
+      - rid: 4830990691756671014
+  - m_Id: 6187949697896448
+    m_Localized: Legendary Set
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6189435710443520
+    m_Localized: No Ads
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6193433431609344
+    m_Localized: Remove annoying ads
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6199891443421184
+    m_Localized: Offer is limited!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6200644887220224
+    m_Localized: Most popular!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6201011440029696
+    m_Localized: Best price!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6202876902871040
+    m_Localized: Double set
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6205458966745088
+    m_Localized: '{0} Coins'
+    m_Metadata:
+      m_Items:
+      - rid: 4830990691756671014
+  - m_Id: 6525102508314624
+    m_Localized: Sale!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6525801208057856
+    m_Localized: Remove ads
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6529003567550464
+    m_Localized: 45% less
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6540261830266880
+    m_Localized: Turn off annoying ads and get 200 coins!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6543753437351936
+    m_Localized: Continue with the ad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6629783641362432
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6638824979533824
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6897813030014976
+    m_Localized: 'Superprize!
+
+      <size=150%><sprite=0>1000'
+    m_Metadata:
+      m_Items:
+      - rid: 4830990691756671014
+  - m_Id: 6905306720342016
+    m_Localized: Collect all the <color=#FFFF00>targets</color> to complete the level
+    m_Metadata:
+      m_Items:
+      - rid: 4830990691756671014
+  - m_Id: 6905731452342272
+    m_Localized: <color=#FFFF00>Hint</color> can collect up to 3 goals
+    m_Metadata:
+      m_Items:
+      - rid: 4830990691756671014
+  - m_Id: 6917277616279552
+    m_Localized: <color=#FFFF00>Canceling</color> removes the last item in the inventory
+    m_Metadata:
+      m_Items:
+      - rid: 4830990691756671014
+  - m_Id: 6918668208410624
+    m_Localized: Click on the <color=#FFFF00>hurricane</color> to shuffle and find
+      hidden objects!
+    m_Metadata:
+      m_Items:
+      - rid: 4830990691756671014
+  - m_Id: 6919749365764096
+    m_Localized: <color=#FFFF00>Time freeze</color> briefly stops the timer
+    m_Metadata:
+      m_Items:
+      - rid: 4830990691756671014
+  - m_Id: 7279344294662144
+    m_Localized: The Easter Test
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7334660654862336
+    m_Localized: The Christmas Test
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12684867261272064
+    m_Localized: Very Hard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12688748724719616
+    m_Localized: Collect lollipops and win Christmas rewards!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12770848316428288
+    m_Localized: Time's up
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12774604798005248
+    m_Localized: Continue Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13053562533810176
+    m_Localized: 'YOU WILL LOSE:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13064544064737280
+    m_Localized: +{0}s
+    m_Metadata:
+      m_Items:
+      - rid: 4830990691756671014
+  - m_Id: 13069987373748224
+    m_Localized: Not enough space!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13070480732950528
+    m_Localized: Clear Panel
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 4830990691756671014
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 0090e1c4500800000090a1100e1c000000902191293a01000090610aba4801000090a117466201000090e11f6fa802000090a1dadb4d05000090a1341e7705000090e15de6560900009021f1ac5e0900009021d9e85e09000090e1873478050000902119f5cf100000906101d50b16000090613d4efb15000090a1e47d6012000090e125a26112000090613f868118000090210257881800009021e6b9881800009021333a9318000090e1f87d9418000090e1b27995180000902134226a2e00

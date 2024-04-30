@@ -1,0 +1,133 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 955ff1d6fb89cc14ab169322654b43c7, type: 3}
+  m_Name: In Game Purchased Data
+  m_EditorClassIdentifier: 
+  rewards:
+  - rewards:
+    - reward: 4
+      count: 500
+    - reward: 5
+      count: 1
+    - reward: 6
+      count: 1
+    - reward: 7
+      count: 1
+    - reward: 8
+      count: 1
+    - reward: 9
+      count: 1
+    - reward: 10
+      count: 1
+  - rewards:
+    - reward: 4
+      count: 500
+    - reward: 5
+      count: 1
+    - reward: 6
+      count: 1
+    - reward: 7
+      count: 1
+    - reward: 8
+      count: 1
+    - reward: 9
+      count: 1
+    - reward: 10
+      count: 1
+  - rewards:
+    - reward: 4
+      count: 1000
+    - reward: 5
+      count: 2
+    - reward: 6
+      count: 2
+    - reward: 7
+      count: 2
+    - reward: 8
+      count: 2
+    - reward: 9
+      count: 2
+    - reward: 10
+      count: 2
+  - rewards:
+    - reward: 4
+      count: 2500
+    - reward: 5
+      count: 6
+    - reward: 6
+      count: 6
+    - reward: 7
+      count: 6
+    - reward: 8
+      count: 6
+    - reward: 9
+      count: 6
+    - reward: 10
+      count: 6
+    - reward: 0
+      count: 360
+  - rewards:
+    - reward: 4
+      count: 5000
+    - reward: 5
+      count: 12
+    - reward: 6
+      count: 12
+    - reward: 7
+      count: 12
+    - reward: 8
+      count: 12
+    - reward: 9
+      count: 12
+    - reward: 10
+      count: 12
+    - reward: 0
+      count: 720
+  - rewards:
+    - reward: 4
+      count: 6500
+    - reward: 5
+      count: 24
+    - reward: 6
+      count: 24
+    - reward: 7
+      count: 24
+    - reward: 8
+      count: 24
+    - reward: 9
+      count: 24
+    - reward: 10
+      count: 24
+    - reward: 0
+      count: 1440
+  - rewards: []
+  - rewards:
+    - reward: 4
+      count: 200
+  - rewards:
+    - reward: 4
+      count: 100
+  - rewards:
+    - reward: 4
+      count: 500
+  - rewards:
+    - reward: 4
+      count: 1000
+  - rewards:
+    - reward: 4
+      count: 2500
+  - rewards:
+    - reward: 4
+      count: 5000
+  - rewards:
+    - reward: 4
+      count: 10000

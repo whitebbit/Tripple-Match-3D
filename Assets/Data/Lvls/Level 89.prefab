@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7514808413023810114
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7525587721908099218}
+  - component: {fileID: 937568099266113144}
+  m_Layer: 0
+  m_Name: Level 89
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7525587721908099218
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7514808413023810114}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &937568099266113144
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7514808413023810114}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73cb6b760310dcc4b8853d490b3b77f1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  items:
+  - item: 47
+    count: 9
+    quest: 1
+  - item: 406
+    count: 9
+    quest: 1
+  - item: 146
+    count: 6
+    quest: 1
+  - item: 57
+    count: 9
+    quest: 0
+  - item: 42
+    count: 15
+    quest: 0
+  - item: 306
+    count: 15
+    quest: 0
+  - item: 259
+    count: 12
+    quest: 0
+  - item: 407
+    count: 12
+    quest: 0
+  - item: 280
+    count: 6
+    quest: 0
+  - item: 104
+    count: 18
+    quest: 0
+  - item: 109
+    count: 9
+    quest: 0
+  - item: 184
+    count: 15
+    quest: 0
+  - item: 100
+    count: 12
+    quest: 0
+  time: 150
+  difficulty: 0
